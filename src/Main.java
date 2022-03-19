@@ -1,4 +1,11 @@
 
+/**
+ * Entry point for the application
+ * that will write data to a log file,
+ * before reading back selected data
+ * logs from that file
+ */
+
 public class Main {
 
     public static void main(String[] args) {
